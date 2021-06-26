@@ -1,0 +1,15 @@
+
+* 
+*::after
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+ }
+html{
+    /* global font size by default is 16px and can be changed in html tag */
+    font-size:62.5%;
+}
+ body{
+     box-sizing: border-box;
+ }
